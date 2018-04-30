@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="973dfb87-52db-448c-966c-e7a5a696eb0a" name="Default" comment="Specify that name is non-empty for new solver">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week_11/RubrikObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week_11/DBConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_11/DBConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week_11/Rubik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_11/Rubik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week_11/RubikGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_11/RubikGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week_11/RubikGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week_11/RubikGUI.java" afterDir="false" />
+    <list default="true" id="973dfb87-52db-448c-966c-e7a5a696eb0a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/rubik.db" beforeDir="false" afterPath="$PROJECT_DIR$/rubik.db" afterDir="false" />
     </list>
     <ignored path="Java_Auto_Grader_5_6_7.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -153,6 +148,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -1087,7 +1083,7 @@
       <workItem from="1517093169051" duration="481000" />
       <workItem from="1524111869427" duration="376000" />
       <workItem from="1525059689912" duration="745000" />
-      <workItem from="1525110794453" duration="14517000" />
+      <workItem from="1525110794453" duration="14795000" />
     </task>
     <task id="LOCAL-00001" summary="Start of week 5">
       <created>1496361654279</created>
@@ -1376,7 +1372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517093605057</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Specify that name is non-empty for new solver">
+      <created>1525130635422</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1525130635424</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1412,7 +1415,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179275000" />
+    <option name="totallyTimeSpent" value="179553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1425,7 +1428,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.100137174" />
@@ -1435,10 +1437,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32964602" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32882273" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48899928" visible="true" weight="0.27492878" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48899928" visible="true" weight="0.27492878" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4971475" weight="0.47783932" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15637584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15637584" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49713057" weight="0.24786325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
